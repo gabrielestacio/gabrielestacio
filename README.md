@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Gabriel! 👋
+### Welcome to my GitHub profile!
+Here, you can see more about my projects.
+
 
 <!--
 **gabrielestacio/gabrielestacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
