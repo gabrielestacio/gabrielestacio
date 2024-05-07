@@ -1,6 +1,7 @@
 # Hi, I'm Gabriel! 👋
 ### Welcome to my GitHub profile!
-Here, you can see more about my projects.
+Here, you can find out more about my projects.
+___
 
 
 <!--
