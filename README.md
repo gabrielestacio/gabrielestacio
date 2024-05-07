@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile!
 Here, you can find out more about my projects.
 ___
-
+I'm currently a student at the Information Technology course in Universidade Federal do Rio Grande do Norte (UFRN), located in Natal, Rio Grande do Norte - Brazil.
 
 <!--
 **gabrielestacio/gabrielestacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
