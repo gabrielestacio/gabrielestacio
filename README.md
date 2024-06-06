@@ -14,7 +14,6 @@
     </p>
   </section>
 
-
   <section>
     <h2>📫 Contact Info</h2>
       <a href="mailto:gabrielestaciosp@gmail.com" target="_blank" rel="noopener norreferer">
