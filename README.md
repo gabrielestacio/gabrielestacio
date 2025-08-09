@@ -9,7 +9,7 @@
   <section>
     <p>
       <b>I'm Gabriel!</b> 😊<br/>
-      I'm a 24 years old fullstack developer from Brazil. Also, I'm currently a student at the Information Technology course in Universidade Federal do Rio Grande do Norte (UFRN), located in Natal, Rio Grande do Norte - Brazil.<br/><br/>
+      I'm a 25 years old fullstack developer from Brazil and I'm currently a student at the Information Technology course in Universidade Federal do Rio Grande do Norte (UFRN), located in Natal, Rio Grande do Norte - Brazil. Also, I'm working as a developer at EloGroup.<br/><br/>
       This is my GitHub profile and here you can find out more about me, my projects, techs I've been working with and more. Check out 👇<br/><br/>
     </p>
   </section>
